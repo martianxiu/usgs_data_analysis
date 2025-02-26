@@ -25,7 +25,8 @@ python -m ipykernel install --user --name=geospatial --display-name "geospatial"
 ```
 
 ## Data Structure
-Raw and processed data are stored in the `data` folder. After processing the datasets using scripts in the `scripts` folder, the directory structure should be as follows:
+Raw and processed data are stored in the `data` folder. Please first download the data following the instructions in `data`. 
+After processing the datasets using scripts in the `scripts` folder, the directory structure should be as follows:
 
 ```
 .
