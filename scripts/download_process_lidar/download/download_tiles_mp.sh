@@ -2,10 +2,10 @@
 
 num_sample=0
 limit=80
-max_workers=20
-tile_list_path=../../data/sampled_tiles/sample_1000_developed_forest.gpkg
+max_workers=2
+tile_list_path=../../../data/sampled_tiles/sample_1000_developed_forest.gpkg
 log_path=download_log/download.log
-save_root=../../data/raw_tiles_developed_forest
+save_root=../../../data/raw_tiles_developed_forest
 timeout_sec=10000
 
 while [ $num_sample -le $limit ]
