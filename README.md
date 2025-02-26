@@ -1,7 +1,9 @@
 # Geospatial Data Analysis in the paper "Advancing ALS Applications with Large-Scale Pre-training"
 
 ## Introduction
-This repository contains the code for geospatial data analysis and dataset development used in the technical report [Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment](https://arxiv.org/abs/2501.05095).
+This repository contains the code for geospatial data analysis and dataset development used in the technical report [Advancing ALS Applications with Large-Scale Pre-training: Dataset Development and Downstream Assessment](https://arxiv.org/abs/2501.05095). 
+
+The experiment code is [here](https://github.com/martianxiu/ALS_pretraining).
 
 ## Installation
 We use Conda to create a virtual environment for this project.
